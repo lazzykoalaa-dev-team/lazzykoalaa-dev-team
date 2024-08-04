@@ -26,7 +26,7 @@ Check out our project to see how we make organizing URLs easy and efficient:
 
 We're always looking for feedback and contributions! If you’re interested in helping us improve LazzyKoalaa or have suggestions, please:
 
-1. **Fork the Repo**: [LazzyKoalaa](https://github.com/lazzykoalaa/lazzykoalaa)
+1. **Fork the Repo**: [LazzyKoalaa Frontend](https://github.com/lazzykoalaa/frontend) or [LazzyKoalaa Backend](https://github.com/lazzykoalaa/backend)
 2. **Open Issues**: Report bugs or request features.
 3. **Submit Pull Requests**: Contribute code and enhancements.
 
@@ -36,18 +36,18 @@ For any questions, suggestions, or support:
 
 - **Email:** [lazzykoalaa@gmail.com](mailto:lazzykoalaa@gmail.com)
 - **Twitter:** [@LazzyKoalaa](https://twitter.com/LazzyKoalaa)
-- **GitHub Issues:** [Submit an issue](https://github.com/yourusername/LazzyKoalaa/issues)
+- **GitHub Issues:** [Submit an issue](https://github.com/lazzykoalaa)
 
 ### 🛠 Technologies Used
 
 - **Frontend:** [React](https://reactjs.org/)
-- **Backend:** [Python](https://nodejs.org/)
-- **Database:** [Postgres](https://www.mongodb.com/)
+- **Backend:** [Python](https://python.org/)
+- **Database:** [Postgres](https://www.postgresql.org/)
 
 ### 📚 Learn More
 
 Want to dive deeper? Explore our documentation and guides to get the most out of LazzyKoalaa:
 
-- **[Installation Guide](https://github.com/yourusername/LazzyKoalaa/wiki/Installation)**
-- **[Usage Instructions](https://github.com/yourusername/LazzyKoalaa/wiki/Usage)**
-- **[API Documentation](https://github.com/yourusername/LazzyKoalaa/wiki/API)**
+- **[Installation Guide](https://github.com/lazzykoalaa/wiki/Installation)**
+- **[Usage Instructions](https://github.com/lazzykoalaa/wiki/Usage)**
+- **[API Documentation](https://github.com/lazzykoalaa/wiki/API)**
